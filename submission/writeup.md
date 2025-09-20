@@ -25,7 +25,7 @@ This adaptive methodology allowed me to bypass the model's superficial guardrail
 
 My investigation successfully identified and reproduced five distinct, high-severity vulnerabilities. The full, reproducible proof-of-concept for each finding can be found in my Kaggle Notebook, which contains the complete code, prompts, and outputs for each test.
 
-**Link to Proof-of-Concept Notebook:** [GPT-OSS-20B-safety](https://www.kaggle.com/code/huseyincavus/gpt-oss-20b-safety)
+**Link to Proof-of-Concept Notebook:** [GPT-OSS-20B-safety](https://github.com/huseyincavusbi/gpt-oss-red-teaming/blob/main/notebooks/gpt-oss-20b-safety.ipynb)
 
 The findings are presented below, ranked in order of severity.
 
@@ -77,10 +77,18 @@ In conclusion, this investigation successfully identified and documented five cr
 
 ## 7. Submission Links
 
-- **Public Kaggle Notebook:** https://www.kaggle.com/code/huseyincavus/gpt-oss-20b-safety
-- **Private Kaggle Datasets (Findings Files):**
-	- gpt-oss-finding-1: https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-1 
-	- gpt-oss-finding-2: https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-2 
-	- gpt-oss-finding-3: https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-3 
-	- gpt-oss-finding-4: https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-4 
-	- gpt-oss-finding-5: https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-5 
+- **GitHub Notebook:**  
+  [https://github.com/huseyincavusbi/gpt-oss-red-teaming/blob/main/notebooks/gpt-oss-20b-safety.ipynb](https://github.com/huseyincavusbi/gpt-oss-red-teaming/blob/main/notebooks/gpt-oss-20b-safety.ipynb)
+
+- **Kaggle Notebook:**  
+  [https://www.kaggle.com/code/huseyincavus/gpt-oss-20b-safety](https://www.kaggle.com/code/huseyincavus/gpt-oss-20b-safety)
+
+- **Kaggle Datasets (Findings Files):**  
+  - gpt-oss-finding-1: [https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-1](https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-1)  
+  - gpt-oss-finding-2: [https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-2](https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-2)  
+  - gpt-oss-finding-3: [https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-3](https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-3)  
+  - gpt-oss-finding-4: [https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-4](https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-4)  
+  - gpt-oss-finding-5: [https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-5](https://www.kaggle.com/datasets/huseyincavus/gpt-oss-finding-5)
+
+- **Findings on GitHub:**  
+  [https://github.com/huseyincavusbi/gpt-oss-red-teaming/tree/main/findings](https://github.com/huseyincavusbi/gpt-oss-red-teaming/tree/main/findings)
